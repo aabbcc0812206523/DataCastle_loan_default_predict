@@ -1,0 +1,147 @@
+variable,importance
+bill_year_count_2158,0.0642534289605
+loan_day,0.0392706024741
+sex,0.0341063392676
+bill_year_count_2157,0.0320591502087
+bill_count,0.0302552811926
+bill_month_count_12,0.0301752424481
+loan_month,0.0262377376855
+bill_month_count_01,0.0225371568562
+last_rest_repay_money_morethan0_count,0.0216129418801
+last_rest_repay_money_morethan10_count,0.0214685383922
+bill_month_count_11,0.0210000719153
+bill_month_count_10,0.018049732343
+bank_id_number_7,0.0178480498247
+hukou,0.0164576997362
+bill_year_count_2156,0.015585566946
+bank_id_number_3,0.0141999086787
+recurrent_interest_morethan0_count,0.0141987513697
+bill_year_count_0000,0.0140108361253
+bill_month_count_09,0.0139481782186
+bank_id_number_10,0.0134697193884
+bill_month_count_02,0.0133553845805
+marriage,0.0132089861176
+bill_month_count_08,0.0128439581707
+education,0.012422532669
+bank_id_number_4,0.0123390426736
+bank_id_number_6,0.012276750896
+diff_bank_count,0.0122264650894
+bank_id_number_16,0.012222617833
+"last_rest_repay_money_avg_(3.817, 26.505]",0.0122024086372
+bank_id_number_14,0.0114524432835
+job,0.0111438405317
+bill_month_count_07,0.0106761158317
+bill_month_count_05,0.0104116804759
+bank_id_number_2,0.010310337585
+bill_month_count_06,0.0101752115241
+bill_month_count_04,0.00957034616048
+bank_id_number_11,0.00941249355151
+bill_month_count_03,0.00932090842831
+current_bill_balance_lessthan0_count,0.00890452414777
+bill_year_count_2155,0.00823734310057
+bank_id_number_5,0.00801833506591
+bank_id_number_9,0.0073600378978
+bank_id_number_8,0.00697946644863
+available_balance_morethan0_count,0.00689855441922
+bank_count,0.00543585847177
+bank_id_number_13,0.005207968986
+bank_id_number_15,0.00495689136894
+"pay_count_avg_(1.5, 1000]",0.00474662877683
+"pay_count_avg_(0.2, 1]",0.00471915268401
+"pay_count_avg_(-1, 0]",0.00451911335452
+"borrow_cash_limit_avg_(17, 25]",0.00434648464848
+"current_card_limit_avg_(-2.346, -1.246]",0.00421154901251
+"last_rest_repay_money_avg_(2.135, 3.817]",0.00418057668504
+"borrow_cash_limit_avg_(8, 17]",0.00414582350285
+"current_card_limit_avg_(10.241, 16.906]",0.00403118097508
+"current_card_limit_avg_(-0.172, 1.747]",0.0040123647157
+adjust_money_lessthan0_count,0.00400715401584
+"current_card_limit_avg_(-1.246, -0.172]",0.00386892508668
+"current_card_limit_avg_[-43.198, -2.346]",0.00380485140601
+"last_bill_money_avg_(18.987, 19.72]",0.00374860868057
+"current_card_limit_avg_(6.996, 10.241]",0.00363522157272
+"current_card_limit_avg_(16.906, 36.995]",0.00359186054755
+"borrow_cash_limit_avg_(0, 8]",0.00356035720555
+"last_rest_repay_money_avg_[-43.167, -4.585]",0.0034997690098
+adjust_money_morethan0_count,0.00347002409466
+"last_bill_money_avg_(19.72, 20.406]",0.00338557544628
+"last_rest_repay_money_avg_(-0.173, -0.00316]",0.0032983444753
+"last_rest_repay_money_avg_(0.663, 1.0567]",0.0032433995971
+"last_bill_money_avg_(9.493, 11.0871]",0.00320399039097
+"last_bill_money_avg_(18.115, 18.987]",0.00320156485497
+"last_bill_money_avg_(6.768, 9.493]",0.00319929185019
+"last_bill_money_avg_[-21.717, 0]",0.00319827171921
+"current_card_limit_avg_(4.326, 6.996]",0.0031832143846
+"card_limit_avg_(20.334, 20.664]",0.00318137733392
+"last_rest_repay_money_avg_(-4.585, -1.818]",0.00317200722044
+"current_bill_balance_avg_(20.334, 20.664]",0.00313764597594
+"current_card_limit_avg_(1.747, 4.326]",0.00312750946243
+"card_limit_avg_(20.334, 20.664]",0.00310487001731
+"card_limit_avg_(19.287, 19.748]",0.0030389331469
+"card_limit_avg_(18.362, 19.287]",0.00302472263137
+"current_bill_balance_avg_(19.287, 19.748]",0.00301863131088
+"card_limit_avg_(18.362, 19.287]",0.00301500538696
+"card_limit_avg_(19.287, 19.748]",0.0030140418019
+"current_bill_balance_avg_(18.362, 19.287]",0.00300571949692
+"last_bill_money_avg_(17.168, 18.115]",0.00297528064084
+"last_bill_money_avg_(20.406, 25.269]",0.00297067193703
+"pay_count_avg_(1.2, 1.5]",0.00293753493564
+"last_rest_repay_money_avg_(1.0567, 1.52]",0.00289391146735
+"last_rest_repay_money_avg_(0.326, 0.663]",0.00286264708659
+"last_bill_money_avg_(12.671, 13.914]",0.00282200492503
+"last_rest_repay_money_avg_(-0.713, -0.173]",0.00281991493044
+"card_limit_avg_(20.00774, 20.334]",0.00275638222086
+"card_limit_avg_(20.00774, 20.334]",0.00275581056551
+"current_bill_balance_avg_(19.748, 20.00774]",0.00274891582061
+"card_limit_avg_(19.748, 20.00774]",0.00272372299351
+"last_rest_repay_money_avg_(-0.00316, 0]",0.00271625703186
+"card_limit_avg_(19.748, 20.00774]",0.00271068316738
+"last_rest_repay_money_avg_(1.52, 2.135]",0.00270109223305
+"current_bill_balance_avg_(20.00774, 20.334]",0.00269672509641
+"last_bill_money_avg_(16.143, 17.168]",0.00267493157485
+"last_rest_repay_money_avg_(0.052, 0.326]",0.00264984134452
+"last_bill_money_avg_(13.914, 15.0675]",0.00263964184428
+"last_bill_money_avg_(11.0871, 12.671]",0.00262605107383
+"current_bill_balance_avg_(20.664, 21.0699]",0.00253241860319
+"last_bill_money_avg_(0.914, 6.768]",0.00253022535751
+"card_limit_avg_(20.664, 21.0699]",0.00246652410604
+"pay_count_avg_(0, 0.2]",0.00239496493532
+"card_limit_avg_(21.0699, 25.27]",0.00239381728362
+"card_limit_avg_(20.664, 21.0699]",0.00238884885735
+"card_limit_avg_(4.932, 11.213]",0.00236579004877
+"current_bill_balance_avg_(21.0699, 25.27]",0.00236516596875
+"last_bill_money_avg_(15.0675, 16.143]",0.00235207725706
+"current_bill_balance_avg_(4.932, 11.213]",0.00233208455773
+"card_limit_avg_(4.932, 11.213]",0.0023277199633
+"card_limit_avg_(21.0699, 25.27]",0.00232506557203
+"card_limit_avg_(11.213, 14.244]",0.00225717926854
+"card_limit_avg_(11.213, 14.244]",0.00224605257698
+"last_rest_repay_money_avg_(-1.818, -0.713]",0.00220767897622
+"current_bill_balance_avg_(11.213, 14.244]",0.00220615066726
+"card_limit_avg_(16.46, 18.362]",0.00210888102839
+"current_bill_balance_avg_(16.46, 18.362]",0.00209510840712
+"card_limit_avg_(16.46, 18.362]",0.00206193837234
+"current_bill_balance_avg_[-18.99, 4.932]",0.00198569566802
+"card_limit_avg_[-18.99, 4.932]",0.00195357854657
+"card_limit_avg_[-18.99, 4.932]",0.00193356220783
+"card_limit_avg_(14.244, 16.46]",0.00192981736385
+"card_limit_avg_(14.244, 16.46]",0.00188398113851
+"current_bill_balance_avg_(14.244, 16.46]",0.00183695038213
+"pay_count_avg_(1, 1.2]",0.00156162493952
+"last_rest_repay_money_avg_(0, 0.052]",0.0013842801427
+business_type_1_count,0.00138027844891
+if_have_bank_detail,0.00134326331987
+"bank_year_count_2157_(-1, 0.5]",0.00134250291019
+"bank_year_count_2157_(0.5, 320]",0.00105694598232
+bank_id_number_1,0.000964368348915
+"bank_year_count_2157_(320, 20000]",0.000858141104245
+if_have_bill_detail,0.000682614953431
+bank_id_number_12,0.000433652486772
+"last_bill_money_avg_(0, 0.914]",0.000196580305255
+bank_year_count_2156,0.000173448607847
+repay_condition_1,0.000164684323826
+bank_id_number_51,6.71731778438e-05
+bank_year_count_1970,5.79426090139e-05
+bill_year_count_2153,0.0
+bill_year_count_2152,0.0
+bill_year_count_2154,0.0
